@@ -6,7 +6,7 @@ public class numbersWithSameConsequitiveDifferences {
 
 	    List<Integer> list = new ArrayList<Integer>();
 	    if(K == 0){
-	        return 
+	        return ; 
 	    }
 	    
 	}

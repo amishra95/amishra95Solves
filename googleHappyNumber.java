@@ -3,6 +3,7 @@
 and determines if the sum ends in zero. If it ends in zero print “Magic”. Otherwise, try again with the sum.
 
 
+
 # Asked multiple follow-up questions and pushed to get better time and space complexity. Also made sure code is ready to compile and with no errors.
 # Towards the end he gave me 5 mins for questions but ended up talking for over 10 mins and bonded over the culture at google and how they get projects.
 

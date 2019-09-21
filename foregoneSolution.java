@@ -4,6 +4,7 @@ import java.util.Scanner;
 import java.util.*;
 
 public class Solution {
+	
   
   public static void main(String[] args) {
     Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));

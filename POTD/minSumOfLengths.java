@@ -6,6 +6,8 @@ class Solution {
         int[] backArray = backwardArray(arr, target);
         
         int ans = Integer.MAX_VALUE;
+
+        
         for (int i = 0; i + 1 < n; i++) {
             if (frontArray[i] != Integer.MAX_VALUE && backArray[i + 1] != Integer.MAX_VALUE) {
                 ans = Math.min(ans, frontArray[i] + backArray[i + 1]);

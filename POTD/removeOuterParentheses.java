@@ -5,6 +5,7 @@ class Solution {
         int depth = 0;
 
     for(char c: s.toCharArray()){
+        
         if(c == '('){
             if(depth != 0){
                 sb.append('(');
